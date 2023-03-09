@@ -39,6 +39,7 @@ public class SimulateurCredit_App {
 
         //test
         String rep="";
+
         do{
 //            System.out.println("=> Test 1 : Calcul de mesualite de credit n°");
             System.out.println("=> Test 1 : Calcul de mesualite de credit");
