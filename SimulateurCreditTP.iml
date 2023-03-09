@@ -22,5 +22,6 @@
     <orderEntry type="library" name="spring-context-6.0.3" level="project" />
     <orderEntry type="library" name="spring-core-6.0.3" level="project" />
     <orderEntry type="library" name="spring-expression-6.0.3" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
   </component>
 </module>
