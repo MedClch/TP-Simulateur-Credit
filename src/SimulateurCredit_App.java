@@ -108,7 +108,7 @@ public class SimulateurCredit_App {
         try {
             creditController.affcher_mensualite(2L);
         } catch (CreditException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
     }
 
@@ -118,7 +118,7 @@ public class SimulateurCredit_App {
         try {
             creditController.affcher_mensualite(2L);
         } catch (CreditException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
     }
 
